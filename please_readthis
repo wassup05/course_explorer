@@ -1,0 +1,4 @@
+A Note about the functionality : the app was functioning very well until I don't know what happened it 
+started throwing exceptions( null is not a a subtype of List<dynamic>, html etc) that worked fine last time it was run. 
+it is running much better on my mobile phone when I used it for USB debugging.
+Thanks for reading!
