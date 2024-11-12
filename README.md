@@ -1,6 +1,6 @@
-# thetask
+# Course Explorer
 
-A new Flutter project.
+A very basic Course Explorer App.
 
 ## Getting Started
 
